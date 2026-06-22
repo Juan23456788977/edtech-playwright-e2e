@@ -1,0 +1,194 @@
+GUARDIANS PAGE:
+La página que busca
+no se ha podido encontrar!
+
+Disculpe las molestias
+
+ 
+
+EMPLOYEES PAGE:
+X
+descartar
+ 
+
+ Tweet  
+
+¿Cuál es la probabilidad de que recomiende Akdemia a un amigo ?
+
+Poco probable 0 1 2 3 4 5 6 7 8 9 10 Muy Probable
+powered by wootric
+Ayuda
+
+Colegio Prueba Akdemia
+
+Cortéz Juan
+
+Control de estudios
+
+ 
+
+Muros
+
+ 
+
+Enfermería
+
+ 
+
+Preferencias
+
+ 
+
+Calendario
+
+ 
+
+Recursos humanos
+
+ 
+
+Secciones
+
+ 
+
+Materias
+
+ 
+
+Materias Electivas
+
+ 
+
+Evaluaciones
+
+ 
+
+Exámenes
+
+ 
+
+Reportes
+
+ 
+
+Correos
+
+ 
+
+Encuestas
+
+ 
+
+Archivos
+
+ 
+
+Libro de vida
+
+ 
+
+Admisión
+
+ 
+
+Configuraciones
+
+ 
+
+Engagement
+
+ 
+
+Noticias
+
+ 
+
+Ir a Cobranzas
+
+ 
+
+Rol: Profesor
+
+Cambiar de rol
+
+Cambiar a cualquier usuario
+
+ Recursos humanos
+Agregar empleado
+Generar Reporte
+Empleados
+Nombre	Correo electrónico	
+
+2 gency
+	
+
+ybravo.lega@gmail.com
+
+	  
+
+Akdemia Prueba
+	
+
+testprueba@pruebaakdemia.com
+
+	  
+
+Bautista Rosangela
+	
+
+rbautista@akdemia.com
+
+	  
+
+Bautista Rosangela
+	
+
+rossiz2303@gmail.com
+
+	  
+
+Cervante Luis
+	
+
+luis.cervante2000@gmail.com
+
+	  
+
+Coor Vanessa
+	
+
+vanecoord@ak.com
+
+	  
+
+Coordinador Edge Vane
+	
+
+vanecoordinador@ak.com
+
+	  
+
+david prueba
+	
+
+prueba2024@gmail.com
+
+	  
+
+De Cobranza Administrador
+	
+
+cobros@colegioprueba.com
+
+	  
+
+Demo Akdemia Coordinador Media General
+	
+
+coordinadormediageneraldemo@ak.com
+
+	  
+Mostrando desde 1 hasta 10 de 44 registros
+12345
+
+¡Estás usando el ambiente de pruebas!
