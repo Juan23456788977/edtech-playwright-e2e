@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-This is an **Enterprise-grade End-to-End (E2E) testing framework** built with Python and Playwright. It was designed to automatically test and validate the **Akdemia** school management platform (used by 500+ schools in LATAM).
+This is an **Enterprise-grade End-to-End (E2E) testing framework** built with Python and Playwright. It was designed to automatically test and validate the **Akdemia** school management platform (used by 60+ schools in LATAM).
 
 Testing a SaaS platform with complex Role-Based Access Control (RBAC) requires rigorous automation to ensure that different user types (Parents, Teachers, Admins, Financial Staff) cannot access unauthorized endpoints. 
 
